@@ -1,0 +1,60 @@
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+<title>A Mystical Library</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2 {font-family: "Raleway", sans-serif}
+body {
+  background-image: url('https://i.pinimg.com/originals/1d/89/6a/1d896ab3d33457c4b50befc3a2a342b9.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+</head>
+
+<div class="w3-content" style="max-width:1400px">
+
+<header class="w3-container w3-center w3-padding-32 w3-blue-grey"> 
+  <h1><b>A Mystical Library</b></h1>
+  <p>A Collection of <span class="w3-white">Poems</span> and <span class="w3-white">Short Stories </span></p>
+</header>
+</div>
+
+<div class="w3-middle">
+  <div class="w3-bar w3-white w3-padding w3-card-4" style="letter-spacing:4px;">
+    <a href="https://www.w3spaces-preview.com/shushmyst/Project/index.html" class="w3-bar-item w3-button">A Mystical Library</a>
+    <div class="w3-right w3-hide-small">
+      <a href="https://www.w3spaces-preview.com/shushmyst/Project/PoemFolder/Poems.html" class="w3-bar-item w3-button">Return</a>
+    </div>
+  </div>
+</div>
+
+  <div class="w3-row w3-padding-64">
+
+    <div class="w3-row w3-padding-large w3-xlarge">
+      <h1 class="w3-center"><b>The Seven Lying Knights</b></h1>
+      <h5 class="w3-center">By: ShushMyst</h5>
+      <p class="w3-center">"For the land of Teyvat is perfect and true"<br>My dear child, they have lied to you.<br>For beneath the stars that light up the sky<br>Are the hidden truths among the lie</p>
+      <p class="w3-center">My dear child, have you heard of the fable?<br>About the seven knights that ruled the table<br>But don't be fooled by their innocent smiles<br>For as I said, it is all a lie</p>
+      <p class="w3-center">The pyro knight, whose passion burned bright<br>A fleeting sun that shines its own light<br>But have you heard of her painstaken cry?<br>That pierces upon the bloody night sky?</p>
+      <p class="w3-center">The electro knight, a being unpredictable<br>Among the rest, she stands so special<br>But a failure she is, for she has yet to see<br>That even she cannot last an eternity</p>
+      <p class="w3-center">The hydro knight, so pure and just<br>Morals of righteousness, a being you trust<br>But beneath her beauty, a dark loom stares<br>Even she cannot judge those unfair</p>
+      <p class="w3-center">The dendro knight, who knows no bounds<br>The secrets of the world, once lost now found<br>But what is the price of the secret she keeps?<br>Why is it, the ground continues to bleed?</p>
+      <p class="w3-center">The geo knight, whose decisions are set<br>A contract is forged, an agreement is met<br>And yet how are you sure you aren't defied?<br>By the man who's tied with the divine</p>
+      <p class="w3-center">The cryo knight, whose love is so gentle<br>A being adored by the nation she handles<br>Oh how cruel the world is, as it is all for naught<br>A love so pure, has been left to rot</p>
+      <p class="w3-center">The anemo knight, one who is free<br>A friend of time, a bard who flees<br>And yet past and future he may know<br>He has yet to reap what he has sow</p>
+      <p class="w3-center">My dear child, it is all a lie<br>Such as the stars that shine so bright<br>But look away, remain a fool<br>For the land of Teyvat is perfect and true</p>
+    </div>
+  </div>
+
+<footer class="w3-container w3-white w3-padding-32 w3-margin-top w3-center">
+  <p>&copy2022 A Mystical Library</p>
+</footer>
+
+</body>
+</html>
