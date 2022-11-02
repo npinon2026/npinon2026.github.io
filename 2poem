@@ -1,0 +1,55 @@
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+<title>A Mystical Library</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2 {font-family: "Raleway", sans-serif}
+body {
+  background-image: url('https://i.pinimg.com/originals/1d/89/6a/1d896ab3d33457c4b50befc3a2a342b9.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+</head>
+
+<div class="w3-content" style="max-width:1400px">
+
+<header class="w3-container w3-center w3-padding-32 w3-blue-grey"> 
+  <h1><b>A Mystical Library</b></h1>
+  <p>A Collection of <span class="w3-white">Poems</span> and <span class="w3-white">Short Stories </span></p>
+</header>
+</div>
+
+<div class="w3-middle">
+  <div class="w3-bar w3-white w3-padding w3-card-4" style="letter-spacing:4px;">
+    <a href="https://www.w3spaces-preview.com/shushmyst/Project/index.html" class="w3-bar-item w3-button">A Mystical Library</a>
+    <div class="w3-right w3-hide-small">
+      <a href="https://www.w3spaces-preview.com/shushmyst/Project/PoemFolder/Poems.html" class="w3-bar-item w3-button">Return</a>
+    </div>
+  </div>
+</div>
+
+  <div class="w3-row w3-padding-64">
+
+    <div class="w3-row w3-padding-large w3-xlarge">
+      <h1 class="w3-center"><b>To Catch The Wind In A Windless Field</b></h1>
+      <h5 class="w3-center">By: ShushMyst</h5>
+      <p class="w3-center">Long before birds soared the heavens<br>Long before the winds roared in silence<br>A time when freedom was to be fought<br>A time when hope was yet to be sought</p>
+      <p class="w3-center">A bird so naive came to be<br>Whose only wish was to set out free<br>Soar across that vast blue sky<br>And become the first bird to ever fly</p>
+      <p class="w3-center">A foolish wish, it may seem<br>But only that bird dared to dream<br>For what it saw in those storm-walled winds<br>Was the chance to finally thrust its wings</p>
+      <p class="w3-center">The time came as the bird sets out to soar<br>Across the heavens like never before<br>But what came wasn't a wish fulfilled<br>As the bird soared into a windless field</p>
+      <p class="w3-center">The bird's naivety came to end<br>As it lost its chance to fly again<br>No longer will it see the sky it yearns<br>Neither will the bird be destined to return</p>
+    </div>
+  </div>
+
+<footer class="w3-container w3-white w3-padding-32 w3-margin-top w3-center">
+  <p>&copy2022 A Mystical Library</p>
+</footer>
+
+</body>
+</html>
