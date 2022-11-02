@@ -1,0 +1,100 @@
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+<title>A Mystical Library</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+body {
+  background-image: url('https://i.pinimg.com/originals/1d/89/6a/1d896ab3d33457c4b50befc3a2a342b9.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.w3-justify {
+padding-right: 300px;
+padding-left: 300px;
+}
+
+</style>
+</head>
+
+<div class="w3-content" style="max-width:1400px">
+
+<header class="w3-container w3-center w3-padding-32 w3-blue-grey"> 
+  <h1><b>A Mystical Library</b></h1>
+  <p>A Collection of <span class="w3-white">Poems</span> and <span class="w3-white">Short Stories </span></p>
+</header>
+</div>
+
+<div class="w3-middle">
+  <div class="w3-bar w3-white w3-padding w3-card-4" style="letter-spacing:4px;">
+    <a href="https://www.w3spaces-preview.com/shushmyst/Project/index.html" class="w3-bar-item w3-button">A Mystical Library</a>
+    <div class="w3-right w3-hide-small">
+      <a href="https://www.w3spaces-preview.com/shushmyst/Project/ShortStoryFolder/shortstory.html" class="w3-bar-item w3-button">Return</a>
+    </div>
+  </div>
+</div>
+
+  <div class="w3-row w3-padding-64">
+
+     <div class="w3-row w3-padding-large w3-xlarge">
+      <h1 class="w3-center"><b>Ilyse And Anton</b></h1>
+      <h5 class="w3-center">By: ShushMyst</h5>
+      <p class="w3-justify">There are two categories in this world. There are those who live in reality while there are others living in a fantasy.</p>
+      <p class="w3-justify">What's the difference? One lives in a life of cruel truths while the other relies on beautiful lies. Reality is more on 
+      facing the world, it's all about the survival of the fittest. Meanwhile, fantasy is finding a way to change it, to make it more beautiful in a 
+      sense. Complete opposites, if I might say. </p>
+      <p class="w3-justify"> Yet they both need each other. </p>
+      <p class="w3-justify"> To cross the world between fantasy and reality is a dream indeed, to have the ability to live in reality yet experience something from fantasy is 
+      something that you would only expect from a book. </p>
+      <p class="w3-justify"> But it's possible. </p>
+      <p class="w3-justify"> At least for Ilyse and Anton. </p>
+      <p class="w3-justify"> Ilyse. What to say about her? Perhaps an ever so warming breeze that comes at the coldest of moments in life. She's no angel though. Honestly, 
+      no one is, but every time she opens her mouth to say the most bizarre of things, one can't help but find themselves bursting in laughter. </p>
+      <p class="w3-justify"> Anton. He's normal. A guy who does the every day things of reality. He's pretty cool, though he can be quite bland at times, but really, can you 
+      blame him? The world is fighting over whether or not climate change is real. Flying cars were supposed to be a thing by now but in the end, we are still arguing about such 
+      nonsense. At least that's what he thinks. </p>
+      <p class="w3-justify"> Ilyse provides Anton an escape route from reality, while Anton helps Ilyse survive such reality. They complement each other, don't you think? </p>
+      <p class="w3-justify"> Then again, there are small moments in life that can become a changing point to fate itself. </p>
+      <p class="w3-justify"> Such as when you find yourself with unnatural abilities. </p>
+      <p class="w3-justify"> Right, quite the turning point indeed </p>
+      <p class="w3-justify"> Unnatural abilities in real life are the same as having fantasy cross the borders of reality. They never get along, but this one time, just this once, 
+      at such a young age these two children were able to defy the natural law of physics. </p>
+      <p class="w3-justify"> But what are these unnatural abilities that they've received you may ask? </p>
+      <p class="w3-justify"> Well, think of it as this. </p>
+      <p class="w3-justify"> Anton is the embodiment of reality. Reality is survival. It's either to be destroyed or to destroy. People aren't kind in this world, your friends are 
+      just your enemies that haven't betrayed you yet. Trust and bonds are so fragile that one mistake can cause it to shatter in an instant. One needs to shield themselves for the 
+      better or be engulfed in this world of destruction. </p>
+      <p class="w3-justify"> Destruction...that's the key word. </p>
+      <p class="w3-justify"> Ilyse is the embodiment of fantasy. Fantasy is change. We are able to create different perspectives, scenarios and people who changed our hearts no matter 
+      if they are lies or not. Be it movies, tv shows, books or even games. It helped us change our view of the world, it helped us find once more the beauty that is trapped in it. Heck, 
+      it even saved thousands of lives! It made us cry and laugh. It made us understand and be understood. We were able to live in a world that's filled with only a gentle breeze of 
+      nostalgia in the air. All of those that came to life as our mind's creations. </p>
+      <p class="w3-justify"> Creation...that's it. </p>
+      <p class="w3-justify"> You see where I'm going here? </p>
+      <p class="w3-justify"> Anton is able to destroy and manipulate atoms, the foundation of the universe. </p>
+      <p class="w3-justify"> Ilyse is able to create anything she comes up with under her imagination in the condition of it not affecting the basic principles of reality, such as 
+      the concept of life itself. </p>
+      <p class="w3-justify"> Polar opposites I told you. </p>
+      <p class="w3-justify"> You may be wondering, what exactly am I trying to say? </p>
+      <p class="w3-justify"> These two are but one of those with abilities like any other, it has become a rare but also common occurrence by then. They are no different from the others, 
+      but they have been blessed even more. </p>
+      <p class="w3-justify"> When the Gods gave them their abilities, who knows what they were thinking? Such power could destroy the whole world at once. It was a power similar to 
+      that of a God, and yet even I wasn't afraid. </p>
+      <p class="w3-justify"> When I first met them I already knew about their unique distinctness from the rest. Ilyse would always stick by Anton while the other would come to be 
+      protective of her. Perhaps they were somehow connected by an invisible thread. A thread that goes beyond what some might consider fate. </p>
+      <p class="w3-justify"> Or perhaps that's just the way reality is, coincidences. For the better or even for the worse. </p>
+    </div>
+  </div>
+
+<footer class="w3-container w3-white w3-padding-32 w3-margin-top w3-center">
+  <p>&copy2022 A Mystical Library</p>
+</footer>
+
+</body>
+</html>
