@@ -1,0 +1,66 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+<title>A Mystical Library</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2 {font-family: "Raleway", sans-serif}
+body {
+  background-image: url('https://i.pinimg.com/originals/1d/89/6a/1d896ab3d33457c4b50befc3a2a342b9.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+</head>
+
+<div class="w3-content" style="max-width:1400px">
+
+<header class="w3-container w3-center w3-padding-32 w3-blue-grey"> 
+  <h1><b>A Mystical Library</b></h1>
+  <p>A Collection of <span class="w3-white">Poems</span> and <span class="w3-white">Short Stories </span></p>
+</header>
+</div>
+
+<div class="w3-middle">
+  <div class="w3-bar w3-white w3-padding w3-card-4" style="letter-spacing:4px;">
+    <a href="https://www.w3spaces-preview.com/shushmyst/Project/index.html" class="w3-bar-item w3-button">A Mystical Library</a>
+    <div class="w3-right w3-hide-small">
+      <a href="https://www.w3spaces-preview.com/shushmyst/Project/index.html" class="w3-bar-item w3-button">Return</a>
+    </div>
+  </div>
+</div>
+
+  <div class="w3-row-padding">
+    <div class="w3-third w3-container w3-margin-bottom w3-margin-top">
+      <a href="https://www.w3spaces-preview.com/shushmyst/Project/ShortStoryFolder/1shortstory.html"><img src="https://i.pinimg.com/564x/d9/aa/f3/d9aaf3d71f028cc8ca119eb16da64e4d.jpg" alt="Miya" style="width:100%" class="w3-hover-opacity"></a>
+      <div class="w3-container w3-white">
+        <p><b>Miya And Magnus</b></p>
+        <p>A Destination Far From The One She Calls Home</p>
+      </div>
+    </div>
+    <div class="w3-third w3-container w3-margin-bottom w3-margin-top">
+      <a href="https://www.w3spaces-preview.com/shushmyst/Project/ShortStoryFolder/2shortstory.html"><img src="https://i.pinimg.com/564x/50/df/3b/50df3b8326347ca7593ba13508240ee0.jpg" alt="Anilyse" style="width:100%" class="w3-hover-opacity"></a>
+      <div class="w3-container w3-white">
+        <p><b>Ilyse And Anton</b></p>
+        <p>Reality And Fantasy, Two Worlds Apart</p>
+      </div>
+    </div>
+    <div class="w3-third w3-container w3-margin-bottom w3-margin-top">
+      <a href="https://www.w3spaces-preview.com/shushmyst/Project/ShortStoryFolder/3shortstory.html"><img src="https://i.pinimg.com/564x/9b/0d/a5/9b0da57cc1538fa14833086ae68c80bf.jpg" alt="Coincidence" style="width:100%" class="w3-hover-opacity"></a>
+      <div class="w3-container w3-white">
+        <p><b>The Photographer And The Lone Wolf</b></p>
+        <p>Below The Dim Light, I Found You</p>
+      </div>
+    </div>
+    </div>
+
+<footer class="w3-container w3-white w3-padding-32 w3-margin-top w3-center">
+  <p>&copy2022 A Mystical Library</p>
+</footer>
+
+</body>
+</html>
