@@ -1,0 +1,54 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+<title>A Mystical Library</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2 {font-family: "Raleway", sans-serif}
+body {
+  background-image: url('https://i.pinimg.com/originals/1d/89/6a/1d896ab3d33457c4b50befc3a2a342b9.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+</head>
+
+<div class="w3-content" style="max-width:1400px">
+
+<header class="w3-container w3-center w3-padding-32 w3-blue-grey"> 
+  <h1><b>A Mystical Library</b></h1>
+  <p>A Collection of <span class="w3-white">Poems</span> and <span class="w3-white">Short Stories </span></p>
+</header>
+</div>
+
+<div class="w3-middle">
+  <div class="w3-bar w3-white w3-padding w3-card-4" style="letter-spacing:4px;">
+    <a href="https://www.w3spaces-preview.com/shushmyst/Project/index.html" class="w3-bar-item w3-button">A Mystical Library</a>
+    <div class="w3-right w3-hide-small">
+      <a href="https://www.w3spaces-preview.com/shushmyst/Project/PoemFolder/Poems.html" class="w3-bar-item w3-button">Return</a>
+    </div>
+  </div>
+</div>
+
+  <div class="w3-row w3-padding-64">
+
+     <div class="w3-row w3-padding-large w3-xlarge">
+      <h1 class="w3-center"><b>A Bird Upon A Moonlit Sky</b></h1>
+      <h5 class="w3-center">By: ShushMyst</h5>
+      <p class="w3-center">There was once a young bird, oh so free<br>Upon his face a smile would glee<br>His family and friends would dance upon the night<br>With only the moonlit sky to guide as the light</p>
+      <p class="w3-center">Songs of freedom they joyfully sang<br>With nothing to worry about, claw or fang<br>Months and years of joyful bringing<br>And the sound of the young bird's carefree cheering
+      <p class="w3-center">But upon a night that one wouldn't forget<br>A joyous celebration filled with regret<br>As a fearsome predator hunts its prey<br>And the bird's celebration would be forgotten one day</p>
+      <p class="w3-center">Feathers would dance a marvelous sight<br>While the moonlit sky shines so bright<br>But such as a candle flame would rest<br>Even the light will die upon an empty nest</p>
+    </div>
+  </div>
+
+<footer class="w3-container w3-white w3-padding-32 w3-margin-top w3-center">
+  <p>&copy2022 A Mystical Library</p>
+</footer>
+
+</body>
+</html>
