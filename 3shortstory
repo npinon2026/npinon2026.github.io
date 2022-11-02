@@ -1,0 +1,65 @@
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+<title>A Mystical Library</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+body {
+  background-image: url('https://i.pinimg.com/originals/1d/89/6a/1d896ab3d33457c4b50befc3a2a342b9.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.w3-justify {
+padding-right: 300px;
+padding-left: 300px;
+}
+
+</style>
+</head>
+
+<div class="w3-content" style="max-width:1400px">
+
+<header class="w3-container w3-center w3-padding-32 w3-blue-grey"> 
+  <h1><b>A Mystical Library</b></h1>
+  <p>A Collection of <span class="w3-white">Poems</span> and <span class="w3-white">Short Stories </span></p>
+</header>
+</div>
+
+<div class="w3-middle">
+  <div class="w3-bar w3-white w3-padding w3-card-4" style="letter-spacing:4px;">
+    <a href="https://www.w3spaces-preview.com/shushmyst/Project/index.html" class="w3-bar-item w3-button">A Mystical Library</a>
+    <div class="w3-right w3-hide-small">
+      <a href="https://www.w3spaces-preview.com/shushmyst/Project/ShortStoryFolder/shortstory.html" class="w3-bar-item w3-button">Return</a>
+    </div>
+  </div>
+</div>
+
+  <div class="w3-row w3-padding-64">
+
+     <div class="w3-row w3-padding-large w3-xlarge">
+      <h1 class="w3-center"><b>The Photographer And The Lone Wolf</b></h1>
+      <h5 class="w3-center">By: ShushMyst</h5>
+      <p class="w3-justify"> A boy who is famous for his beautiful captures online lost interest in photography since he couldn't make 
+      a photo that would spark joy in him.<br>His mother persuaded him to bring his camera when they went on a trip to a crowded place, 
+      amusement park or whatever it is. The boy tries to find inspiration but to no luck so he just randomly took a picture of a crowd when 
+      he was on a bridge.<br>A person stands out as the light focused onto her, catching the boy's attention. The boy silently followed her 
+      and took random pictures at whatever she was doing until he reached her and the girl finally notices him.<br>The boy thought the girl would 
+      ignore him but instead, she noticed the camera pointing at her and so she smiled brightly.<br>The boy took the photo.<br>Then a big firework 
+      appeared and soon their parents called for them and so the girl went off first, the boy stood there for a while until his mother reached 
+      him and so they left.<br>The boy would soon post the photos online, each with their own titles, which would garner the attention of many. 
+      <br>The boy smiled at the photos, meanwhile, the girl saw the post online and so she too smiled.</p>
+    </div>
+  </div>
+
+<footer class="w3-container w3-white w3-padding-32 w3-margin-top w3-center">
+  <p>&copy2022 A Mystical Library</p>
+</footer>
+
+</body>
+</html>
