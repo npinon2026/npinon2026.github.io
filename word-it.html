@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>A Mystical Library</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <script src="./main.js"></script>
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+body {
+  background-image: url('https://i.pinimg.com/originals/1d/89/6a/1d896ab3d33457c4b50befc3a2a342b9.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+</head>
+
+
+<div class="w3-middle">
+
+<header class="w3-container w3-center w3-padding-32 w3-blue-grey"> 
+  <h1><b>A Mystical Wordscape</b></h1>
+  <p>Find the Mystical <span class="w3-white">Words</span> using <span class="w3-white">letters! </span></p>
+</header>
+
+<div class="w3-middle">
+  <div class="w3-bar w3-white w3-padding w3-card-4" style="letter-spacing:4px;">
+    <a href="https://www.w3spaces-preview.com/shushmyst/Project/index.html" class="w3-bar-item w3-button">A Mystical Library</a>
+    <div class="w3-right w3-hide-small">
+      <a href="https://www.w3spaces-preview.com/shushmyst/Project/PoemFolder/Poems.html" class="w3-bar-item w3-button">Poems</a>
+      <a href="https://www.w3spaces-preview.com/shushmyst/Project/ShortStoryFolder/shortstory.html" class="w3-bar-item w3-button">Short Stories</a>
+      <a href="https://shushmyst.w3spaces-preview.com/Project/authorpage.html" class="w3-bar-item w3-button">About</a>
+    </div>
+  </div>
+</div>
+
+<div class="w3-middle w3-padding">
+  <div id="top" class="mb-4">
+    <div class="w3-center px-3 pb-3 pt-2">
+      <h3 id="showWord">Word: </h3>
+      <btn class="btn btn-success" onclick="isValid(document.getElementById('showWord').innerHTML)">Check</btn>
+    </div>
+
+   <div class="w3-center w3-opacity mt-2 px-3 pb-3 pt-3">
+      <button class="btn btn-success" onclick="clearWord()">Clear</btn>
+      <button class="btn btn-danger" id="letter-D" onclick="makeWord('D')">D</button>
+      <button class="btn btn-danger" id="letter-E" onclick="makeWord('E')">E</button>
+      <button class="btn btn-danger" id="letter-I" onclick="makeWord('I')">I</button>
+      <button class="btn btn-danger" id="letter-K" onclick="makeWord('K')">K</button>
+      <button class="btn btn-danger" id="letter-L" onclick="makeWord('L')">L</button>
+    </div>
+  </div>
+
+  <div id="bottom">
+    <h1 class="pb-3 px-3">(Valid) Words:</h1>
+    <ul id="listOfWords" class="list-group">
+    </ul>
+  </div>
+</div>
+</div>
+
+<script>
+var word;
+var i = 0;
+const validWords = ["Word: LED","Word: LIE","Word: LIED","Word: LIKED","Word: LIKE","Word: KID","Word: DIE"];
+
+function makeWord(letter) {
+  document.getElementById("showWord").innerHTML += letter;
+  word = document.getElementById("showWord").innerHTML;
+}
+
+function clearWord(word) {
+  for(i = 0; i<7; i++)
+  {
+    if(validWords[i] == word)
+    {
+      addToList(word);
+    }
+  }
+  document.getElementById("showWord").innerHTML = "Word: ";
+}
+
+function isValid(word) {
+  for(i = 0; i<7; i++)
+  {
+    if(validWords[i] == word)
+    {
+      switch(i)
+      {
+        case 0:
+          addToList("LED");
+          break;
+        case 1:
+          addToList("LIE");
+          break;
+        case 2:
+          addToList("LIED");
+          break;
+        case 3:
+          addToList("LIKED");
+          break;
+        case 4:
+          addToList("LIKE");
+          break;
+        case 5:
+          addToList("KID");
+          break;
+        case 6:
+          addToList("DIE");
+          break;
+      }
+    }
+  }
+  document.getElementById("showWord").innerHTML = "Word: ";
+}
+
+function addToList(word) {
+  document.getElementById("listOfWords").innerHTML += "<li class='list-group-item'>"+word+"</li>";
+}
+</script>
+</body>
+</html>
